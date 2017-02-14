@@ -5,4 +5,4 @@ coverage:
   - src/main/java/biweekly/util/org/.*
   status:
     patch: false
-  precision: 0
+  precision:

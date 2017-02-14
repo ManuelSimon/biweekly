@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Osmorc" name="OSGi">
+      <configuration manifestGenerationMode="OsmorcControlled" manifestLocation="" jarfileLocation="biweekly-0.6.1-SNAPSHOT.jar" outputPathType="CompilerOutputPath" bndFileLocation="" bundlorFileLocation="" bundleActivator="" bundleSymbolicName="net.sf.biweekly" bundleVersion="0.6.1.SNAPSHOT" ignoreFilePattern="" useProjectDefaultManifestFileLocation="true" alwaysRebuildBundleJAR="false" doNotSynchronizeWithMaven="false">
+        <additionalProperties>
+          <property key="Bundle-Description" value="An iCalendar parser/writer library written in Java." />
+          <property key="Bundle-Vendor" value="Michael Angstadt" />
+          <property key="Include-Resource" value="{biweekly/biweekly.license=$MODULE_DIR$/src/main/resources/biweekly/biweekly.license},{biweekly/biweekly.properties=$MODULE_DIR$/src/main/resources/biweekly/biweekly.properties},{biweekly/commons-codec.license=$MODULE_DIR$/src/main/resources/biweekly/commons-codec.license},{biweekly/google-rfc-2445.license=$MODULE_DIR$/src/main/resources/biweekly/google-rfc-2445.license},{biweekly/messages.properties=$MODULE_DIR$/src/main/resources/biweekly/messages.properties},{biweekly/biweekly.properties=$MODULE_DIR$/target/classes/biweekly/biweekly.properties}" />
+          <property key="Import-Package" value="com.fasterxml.jackson.*;resolution:=optional,*" />
+          <property key="Bundle-Name" value="biweekly" />
+        </additionalProperties>
+        <additionalJARContents />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_5" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: com.github.mangstadt:vinnie:2.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-core:2.6.1" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.6.1" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.6.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.12" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: xmlunit:xmlunit:1.6" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.mockito:mockito-all:1.10.19" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: xalan:xalan:2.7.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: xalan:serializer:2.7.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: xml-apis:xml-apis:1.3.04" level="project" />
+  </component>
+</module>

@@ -1,0 +1,80 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Escola Técnica Superior de Enxeñaría | Febreiro 01 2017-Marzo 03 2017
+PRODID:-//strange bird labs//Drupal iCal API//EN
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20170213T223039Z
+DTSTART;VALUE=DATE-TIME:20170202T110000Z
+DTEND;VALUE=DATE-TIME:20170202T110000Z
+UID:http://www.usc.es/etse/node/9620
+URL;VALUE=URI:http://www.usc.es/etse/node/9620
+SUMMARY:Aula Profesional “Obradoiro de Presentacións Orais” (ata 1 de febreiro)
+DESCRIPTION:<p><strong>Organizador\:</strong> Juan M. Lema Rodicio\, Prof. do Departamento de Enxeñaría Química</p>
+ 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20170213T223039Z
+DTSTART;VALUE=DATE-TIME:20170202T110000Z
+DTEND;VALUE=DATE-TIME:20170202T110000Z
+UID:http://www.usc.es/etse/node/9602
+URL;VALUE=URI:http://www.usc.es/etse/node/9602
+SUMMARY:Aula Profesional \\"Xornada Técnica Eficiencia en terminal\\" (ata 30 xaneiro)
+DESCRIPTION:<p><strong>Imparten\: </strong>Andrés Santiago Gómez Vidal e Diego Ferro Santos.<br />
+ <strong>Organiza\: </strong>José Carlos Cabaleiro Domínguez\, Prof. Depto. Electrónica e Computación.</p>
+ 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20170213T223039Z
+DTSTART;VALUE=DATE-TIME:20170203T110000Z
+DTEND;VALUE=DATE-TIME:20170203T110000Z
+UID:http://www.usc.es/etse/node/9534
+URL;VALUE=URI:http://www.usc.es/etse/node/9534
+SUMMARY:Aula Profesional “Proyecto Básico de Ingeniería Química” (ata 22 de decembro)
+DESCRIPTION:<p><strong>Organizadores\: </strong>Ramón Moreira e Ana Soto (Departamento de Enxeñaría Química)<br />
+ <strong>Días\:</strong> Presentación\: Vieenres 20 de xaneiro ás 12h00.</p>
+ 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20170213T223039Z
+DTSTART;VALUE=DATE-TIME:20170206T100000Z
+DTEND;VALUE=DATE-TIME:20170206T100000Z
+UID:http://www.usc.es/etse/node/9675
+URL;VALUE=URI:http://www.usc.es/etse/node/9675
+SUMMARY:Programa Joint TFG 
+DESCRIPTION:<p>Convídase ao alumnado de 3º e 4º curso e ao profesorado do GrEI á presentación do Programa Joint TFG que terá lugar o vindeiro luns 6 de febreiro ás 11\:00 na aula I8 da ETSE no Monte da Condesa. </p>
+ 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20170213T223039Z
+DTSTART;VALUE=DATE-TIME:20170215T160000Z
+DTEND;VALUE=DATE-TIME:20170215T160000Z
+UID:http://www.usc.es/etse/node/9673
+URL;VALUE=URI:http://www.usc.es/etse/node/9673
+SUMMARY:Aula Profesional “Taller de Control do Estrés”
+DESCRIPTION:<p><strong>Imparte\: </strong>Ana López Durán\, Profa. do Departamento de Psicoloxía Clínica e Psicobioloxía<br />
+ <strong>Días\:</strong> 15 e 22 de febreiro e 8 de marzo de 2017</p>
+ 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20170213T223039Z
+DTSTART;VALUE=DATE-TIME:20170215T230000Z
+DTEND;VALUE=DATE-TIME:20170215T230000Z
+UID:http://www.usc.es/etse/node/9670
+URL;VALUE=URI:http://www.usc.es/etse/node/9670
+SUMMARY:Aula Profesional\:Curso de Competencias en Información na Contorna Dixital --Enxeñaría Informática “CICDENXENERINFOR” Curso 2016-2017
+DESCRIPTION:<p>Este curso corresponde ao modelo establecido na Universidade de La Laguna\, produto da firma dun convenio de cooperación entre as universidades de La Laguna\, Zaragoza e Santiago de Compostela\, o curso </p>
+ 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20170213T223039Z
+DTSTART;VALUE=DATE-TIME:20170220T100000Z
+DTEND;VALUE=DATE-TIME:20170220T100000Z
+UID:http://www.usc.es/etse/node/9599
+URL;VALUE=URI:http://www.usc.es/etse/node/9599
+SUMMARY:Aula Profesional \\"Taller Práctico de Optimización de Procesos e Produtos mediante deseño de experimentos\\" (ata 10 febreiro)
+DESCRIPTION:<p><strong>Organizador\:</strong> Antonia María Carro Díaz\, Profa do Departamento de Química Análitica.<br />
+ <strong>Nº horas\: </strong>10 h</p>
+ 
+END:VEVENT
+END:VCALENDAR
